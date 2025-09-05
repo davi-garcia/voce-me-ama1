@@ -3,14 +3,14 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #FF6EB4;
+  background-color: #000000;
   margin: 0;
 }
 
 .card p{
     font-size: 24px;
     font-weight: 700;
-    color: #ff4081;
+    color: #ff0000;
     margin-bottom: 1.5rem;
 }
 
