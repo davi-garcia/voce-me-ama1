@@ -1,4 +1,4 @@
-confirm("Are you sure you want to delete?")
+confirm("Clique em OK para Continuar?")
 $(document).ready(function(){
 
     $(".mudaTela").click(function(){
